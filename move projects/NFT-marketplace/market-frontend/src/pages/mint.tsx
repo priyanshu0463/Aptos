@@ -43,7 +43,7 @@ export default function Mint() {
         createCollectionPayload(
           collection,
           "_1200_dollars_per_hour",
-          "https://github.com/priyanshu0463/Aptos/move projects"
+          "https://github.com/priyanshu0463/Aptos/tree/main/move%20projects/NFT-marketplace"
         ),
         { gas_unit_price: 100 }
       );
